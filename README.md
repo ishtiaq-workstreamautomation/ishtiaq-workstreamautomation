@@ -5,6 +5,6 @@
 > - 💬 Ask me about NodeJs, TypeScript, Java, Rust, Bash, Azure, React and DSA
 
 > [!important]
-> I am a fulltime _labor_ [here](https://workstreamautomation.com/) btw.
+> میں [یہاں](https://workstreamautomation.com/)  کرتا ہوں btw.
 
 ![Balter](https://i.pinimg.com/originals/a6/48/5b/a6485b21036162120ee2757e5fc0216f.jpg "GOAT")
